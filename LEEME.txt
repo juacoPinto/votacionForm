@@ -1,0 +1,23 @@
+1. Para ejecutar el proyecto, se debe crear una database: 
+
+CREATE DATABASE `Votacion`;
+
+2. Insertar en esta todas las tablas de los archivos .sql
+
+3. La conexion se hace mediante el archivo conection.php con las sig. credenciales: 
+host :"localhost"
+usuario: "root"
+password : ""
+dbName : "Votacion"
+
+4.Para ejecutar con xampp, se debe insertar la carpetra completa de este proyecto, en la carpeta HTDOCS de la aplicacion xampp
+
+5. Se inicializa la app para poder servir el proyecto
+
+6. La url sera: http://localhost/votacionForm/index.php
+
+7. Versiones:
+
+PHP: 7.4
+MYSQL: 8.0.33
+XAMPP: 8.0.28
